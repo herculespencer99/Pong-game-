@@ -1,10 +1,4 @@
-from ast import If
-from cgitb import text
-from multiprocessing import reduction
 import sys
-from tkinter import CENTER
-from turtle import right, width
-from xml.sax import handler
 from button import Button
 import pygame
 pygame.init()
